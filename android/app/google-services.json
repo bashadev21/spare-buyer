@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084729903161",
+    "project_id": "sparedo",
+    "storage_bucket": "sparedo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084729903161:android:b0d93789182a7a57a1a5e8",
+        "android_client_info": {
+          "package_name": "com.vriksha.spare_do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084729903161-ibsldkg4ae7f4sdm3iitp0ru8u22rts7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhf7MpLFHk54b8DXW60lvlQQuCtIE-zQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084729903161-ibsldkg4ae7f4sdm3iitp0ru8u22rts7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

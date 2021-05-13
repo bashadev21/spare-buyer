@@ -1,0 +1,29 @@
+class BaseUrl {
+  static const login = 'https://sparedo.vrikshatech.in/public/api/buyer_login?';
+  static const register = 'https://sparedo.vrikshatech.in/public/api/buyer_register?';
+  static const otpVerify = 'https://sparedo.vrikshatech.in/public/api/verify_otp?';
+  static const resendOtp = 'https://sparedo.vrikshatech.in/public/api/resend_otp?';
+  static const getBookingStatus = 'https://sparedo.vrikshatech.in/public/api/get_booking_status?';
+  static const locations = 'https://sparedo.vrikshatech.in/public/api/get-locations';
+  static const getCurrentLocations = 'https://sparedo.vrikshatech.in/public/api/profile_location?';
+  static const updateLocations = 'https://sparedo.vrikshatech.in/public/api/update_location?';
+  static const district = 'https://sparedo.vrikshatech.in/public/api/get-district?';
+  static const profileUpdate = 'https://sparedo.vrikshatech.in/public/api/profile_update?';
+  static const city = 'https://sparedo.vrikshatech.in/public/api/get-city?';
+  static const category = 'https://sparedo.vrikshatech.in/public/assets/category/';
+  static const brands = 'https://sparedo.vrikshatech.in/public/api/brands?';
+  static const brandImage = 'https://sparedo.vrikshatech.in/public/assets/brand/';
+  static const logCheck = 'https://sparedo.vrikshatech.in/public/api/password_check_seller?';
+  static const models = 'https://sparedo.vrikshatech.in/public/api/models?';
+  static const variants = 'https://sparedo.vrikshatech.in/public/api/variants?';
+  static const year = 'https://sparedo.vrikshatech.in/public/api/year?';
+  static const fuel = 'https://sparedo.vrikshatech.in/public/api/get-fuels';
+  static const booking = 'https://sparedo.vrikshatech.in/public/api/book';
+  static const no_seller = 'https://sparedo.vrikshatech.in/public/api/no-seller';
+  static const myBookings = 'https://sparedo.vrikshatech.in/public/api/my-bookings?';
+  static const bookingDetails = 'https://sparedo.vrikshatech.in/public/api/bookings?booking_id=';
+  static const sellerDetails = 'https://sparedo.vrikshatech.in/public/api/seller_bid?booking_id=';
+  static const saveBid = 'https://sparedo.vrikshatech.in/public/api/save_bid?';
+  static const terms = 'https://sparedo.vrikshatech.in/public/api/get_privacy_policy';
+  static const voice = 'https://sparedo.vrikshatech.in/public/';
+}
